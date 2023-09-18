@@ -2,6 +2,6 @@
 Simple 3-colour traffic light implemented in C using ATmega8A micro-controller
 
 ## Proteus simulation
-![Alt text](proteus.png)
+<img src="proteus.png" width="600" />
 
-![Alt text](proteus2.png)
+<img src="proteus2.png" width="600" />
